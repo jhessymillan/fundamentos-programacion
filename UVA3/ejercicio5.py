@@ -10,6 +10,7 @@
 
 number = int(input("Ingrese un numero: "))
 
+print(f"Numero Ingresado: {number}")
 print(f"1 x {number} =", number * 1 )
 print(f"2 x {number} =", number * 2 )
 print(f"3 x {number} =", number * 3 )
