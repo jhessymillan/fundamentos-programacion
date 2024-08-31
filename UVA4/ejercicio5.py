@@ -1,0 +1,2 @@
+# Desarrollar un programa que solicite ingresar tres números distintos, e indique por pantalla cuál de ellos es el 
+# menor número ingresado. Deberán verificar que los tres números ingresados sean distintos
